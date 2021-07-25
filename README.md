@@ -1,7 +1,7 @@
 # Lottery-Application-on-Ethereum-Blockchain-
 requirement:
 
-1.Remix
+/t1.Remix
 2.React
 3.MetaMask
 
